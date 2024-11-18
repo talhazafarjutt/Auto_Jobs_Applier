@@ -46,6 +46,7 @@ title_blacklist:
 location_blacklist:
   - Brazil
 
+<<<<<<< HEAD:data_folder/config.yaml
 job_applicants_threshold:
   min_applicants: 0
   max_applicants: 30
@@ -53,3 +54,5 @@ job_applicants_threshold:
 llm_model_type: ollama
 llm_model: 'llama3.2:1b'
 llm_api_url: 'http://127.0.0.1:11434'
+=======
+>>>>>>> a87f134b82435206c64af3430ece649b42d271e3:data_folder_example/work_preferences.yaml
