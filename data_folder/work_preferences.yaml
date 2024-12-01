@@ -1,6 +1,6 @@
 remote: true
 hybrid: true
-onsite: true
+onsite: false
 
 experience_level:
   internship: false
@@ -12,36 +12,54 @@ experience_level:
 
 job_types:
   full_time: true
-  contract: false
-  part_time: false
+  contract: true
+  part_time: true
   temporary: true
-  internship: false
+  internship: true
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
-  all_time: false
-  month: false
-  week: false
+  all_time: true
+  month: true
+  week: true
   24_hours: true
 
 positions:
   - Software engineer
+  - Backend Engineer
+  - Backend Developer
+  - node developer
+  - js develoepr
+  - nestjs developer
+  - nest developer
+  - python developer
+  - django developer
+  - flask develoepr
+  - fastapi developer
+
 
 locations:
   - Germany
+  - USA
+  - japan
+  - singapure
+  - ireland
+  - dulbin
+  - europe
+  - 
 
 apply_once_at_company: true
 
-distance: 100
+distance: 100000000000000000
 
 company_blacklist:
   - wayfair
   - Crossover
+  - turing
 
 title_blacklist:
-  - word1
-  - word2
+  - frontend developer
 
 location_blacklist:
-  - Brazil
+  - 
